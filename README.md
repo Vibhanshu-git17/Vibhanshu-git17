@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vibhanshu Chaubey
-- 👀 I’m interested in developing Websites based on Mern (MongoDb expressjs React Nodejs)
-- 🌱 I’m currently studying at IIT BHU, Varanasi
+- 👋 Hi, I’m Vibhanshu Chaubey.
+- 👀 I am a full stack web developer who loves to develop websites.
+- 🌱 I’m currently studying at IIT BHU, Varanasi and exploring programming.
 - 📫 You can reach me at vibhanshuc.che18@itbhu.ac.in
 
 
